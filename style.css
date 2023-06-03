@@ -42,7 +42,7 @@ li:nth-child(odd) {
 }
 
 .box-item:last-child(-n+3) {
-  margin-bottom: ;
+  margin-bottom: 0;
 }
 
 
